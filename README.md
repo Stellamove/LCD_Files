@@ -24,7 +24,7 @@ There are reports that some customers who have purchased the Ender-3 V2 from aro
 
       ![upload_orange](https://user-images.githubusercontent.com/96027590/160743404-54f73bff-4f23-4674-b9e9-6c69251ac3e2.jpg)
 
-   - DACAI LCd upgrade progress is indicated by %
+   - DACAI LCD upgrade progress is indicated by %
 
       ![upload_process](https://user-images.githubusercontent.com/96027590/160743433-dc306dad-0d01-4379-8a2e-1d86016cf970.jpg)
 
