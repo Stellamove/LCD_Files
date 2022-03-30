@@ -1,4 +1,4 @@
-# LCD_Files
+# LCD Types
 
 There are reports that some customers who have purchased the Ender-3 V2 from around February 2022 have started receiving the Ender-3 V2 with the new LCD model.
 
