@@ -17,5 +17,5 @@ There are reports that some customers who have purchased the CR-6 SE from around
 
    ![Firmup1](https://user-images.githubusercontent.com/96027590/168723124-66e82569-756f-46bb-851d-2cc61d749fb7.jpg)
 
-8. Turn off the CR-6 SE and remove the SD card from the LCD PCB's SD slot
-9. After assembling the LCD unit, connect to CR-6 SE
+9. Turn off the CR-6 SE and remove the SD card from the LCD PCB's SD slot
+10. After assembling the LCD unit, connect to CR-6 SE
