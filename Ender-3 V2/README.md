@@ -13,12 +13,14 @@ There are reports that some customers who have purchased the Ender-3 V2 from aro
 # LCD Firmware Upgrade
 
 1. Prepare SD card of 8GB or less (formatted as FAT32, 4096 allocation unit size)
-2. Use DWIN_SET for old stock LCD or private for DACAI new LCD
-3. Copy **"DWIN_SET"** or **"private"** folder to SD card
-4. Turn off the Ender-3 V2 and remove the LCD unit
-5. After disassembling the LCD case, insert SD card into SD slot of LCD PCB
-6. Connect the LCD unit to Ender-3 V2 and turn on the Ender-3 V2
-7. Wait for the upgrade to complete
+2. Download LCD_Files_Ender3V2.zip from [Releases](https://github.com/Stellamove/LCD_Files/releases)
+3. Unpack the downloaded zip file and save it on your PC
+4. Use DWIN_SET for old stock LCD or private for DACAI new LCD
+5. Copy **"DWIN_SET"** or **"private"** folder to SD card
+6. Turn off the Ender-3 V2 and remove the LCD unit
+7. After disassembling the LCD case, insert SD card into SD slot of LCD PCB
+8. Connect the LCD unit to Ender-3 V2 and turn on the Ender-3 V2
+9. Wait for the upgrade to complete
    - When DWIN LCD upgrade is completed, the blue screen changes to orange screen (15 ~ 20 seconds)
 
       ![upload_orange](https://user-images.githubusercontent.com/96027590/160743404-54f73bff-4f23-4674-b9e9-6c69251ac3e2.jpg)
@@ -27,5 +29,5 @@ There are reports that some customers who have purchased the Ender-3 V2 from aro
 
       ![upload_process](https://user-images.githubusercontent.com/96027590/160743433-dc306dad-0d01-4379-8a2e-1d86016cf970.jpg)
 
-8. Turn off the Ender-3 V2 and remove the SD card from the LCD PCB's SD slot
-9. After assembling the LCD unit, connect to Ender-3 V2
+10. Turn off the Ender-3 V2 and remove the SD card from the LCD PCB's SD slot
+11. After assembling the LCD unit, connect to Ender-3 V2
