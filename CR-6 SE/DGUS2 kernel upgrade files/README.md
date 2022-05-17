@@ -1,4 +1,4 @@
-# NOTE: These kernel files are not required, unless you are having problems resulting from having inadvertently overwritten the DGUS2 kernel for which your display was last calibrated.
+# NOTE: These kernel files are not required, unless you are having problems(ex. touch input is not possible) resulting from having inadvertently overwritten the DGUS2 kernel for which your display was last calibrated.
 
 ## STEP1 - BEFORE ACTING ON ANY OF THE FOLLOWING RECOMMENDATIONS:
 1. Create an EMPTY folder at the root directory of an EMPTY micro SD card.
