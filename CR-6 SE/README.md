@@ -7,7 +7,7 @@ There are reports that some customers who have purchased the CR-6 SE from around
 # LCD Firmware Upgrade
 
 1. Prepare SD card (formatted as FAT32, 4096 allocation unit size)
-2. Download DWIN_SET
+2. Use DWIN_SET folder
 3. Copy **"DWIN_SET"** folder to SD card
 4. Turn off the CR-6 SE and remove the LCD unit
 5. After disassembling the LCD case, insert SD card into SD slot of LCD PCB
