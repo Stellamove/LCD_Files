@@ -7,12 +7,13 @@ There are reports that some customers who have purchased the CR-6 SE from around
 # LCD Firmware Upgrade
 
 1. Prepare SD card (formatted as FAT32, 4096 allocation unit size)
-2. Use DWIN_SET folder
-3. Copy **"DWIN_SET"** folder to SD card
-4. Turn off the CR-6 SE and remove the LCD unit
-5. After disassembling the LCD case, insert SD card into SD slot of LCD PCB
-6. Connect the LCD unit to CR-6 SE and turn on the CR-6 SE
-7. Wait for the upgrade to complete (about 1 minute)
+2. Download LCD_Files_CR6SE.zip from [Releases](https://github.com/Stellamove/LCD_Files/releases)
+3. Unpack the downloaded zip file and save it on your PC
+4. Copy **"DWIN_SET"** folder to SD card
+5. Turn off the CR-6 SE and remove the LCD unit
+6. After disassembling the LCD case, insert SD card into SD slot of LCD PCB
+7. Connect the LCD unit to CR-6 SE and turn on the CR-6 SE
+8. Wait for the upgrade to complete (about 1 minute)
 
    ![Firmup1](https://user-images.githubusercontent.com/96027590/168723124-66e82569-756f-46bb-851d-2cc61d749fb7.jpg)
 
