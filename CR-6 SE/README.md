@@ -2,6 +2,8 @@
 
 There are reports that some customers who have purchased the CR-6 SE from around December 2021 have started receiving the CR-6 SE with the new LCD model. The original LCD kernel version was V3.5, but the new kernel version seems to be loaded with V4.5.
 
+![LCD back](https://user-images.githubusercontent.com/96027590/168724343-7defeb96-6442-48ce-9b03-13182cb56a24.jpg)
+
 # LCD Firmware Upgrade
 
 1. Prepare SD card (formatted as FAT32, 4096 allocation unit size)
